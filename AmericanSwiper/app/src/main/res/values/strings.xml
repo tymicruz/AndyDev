@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AmericanSwiper</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="cruz_text">magic text</string>
+</resources>

@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">backGroundColorButton</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="redButtonText">red</string>
+    <string name="greenButtonText">green</string>
+    <string name="blueButtonText">blue</string>
+    <string name="blueText">255</string>
+    <string name="greenText">255</string>
+    <string name="redText">255</string>
+    <string name="upText">up</string>
+    <string name="downText">down</string>
+</resources>
